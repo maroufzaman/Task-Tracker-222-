@@ -134,6 +134,21 @@ public void setYear(){
    
 }
 
+//get the year
+public int getYear(){
+    return year;
+}
+
+
+//get the monthe
+public int getMonth(){
+    return month;
+}
+
+//get the assigned task
+public String getTask(){
+    return task;
+}
 
 
 
